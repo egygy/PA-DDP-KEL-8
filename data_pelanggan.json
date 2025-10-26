@@ -1,0 +1,20 @@
+[
+  {
+    "username": "pelanggan",
+    "password": "pelanggan123",
+    "saldo": 20000,
+    "role": "pelanggan"
+  },
+  {
+    "username": "diapelanggan",
+    "password": "123456",
+    "saldo": 0,
+    "role": "pelanggan"
+  },
+  {
+    "username": "merekapelanggan",
+    "password": "192075",
+    "saldo": 0,
+    "role": "pelanggan"
+  }
+]

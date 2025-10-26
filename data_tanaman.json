@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nama": "Bayam",
+    "harga": 5000,
+    "stok": 15
+  },
+  {
+    "id": 2,
+    "nama": "Wortel",
+    "harga": 7000,
+    "stok": 20
+  },
+  {
+    "id": 3,
+    "nama": "Kangkung",
+    "harga": 4000,
+    "stok": 10
+  },
+  {
+    "id": 4,
+    "nama": "Sawi",
+    "harga": 13000,
+    "stok": 20
+  },
+  {
+    "id": 5,
+    "nama": "Tomat",
+    "harga": 8000,
+    "stok": 10
+  }
+]
