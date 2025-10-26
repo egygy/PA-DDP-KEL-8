@@ -8,7 +8,7 @@ Kenny Giovanni Gavra 2509116003
 
 Mohammed Rifqy Syahdi 2509116037
 
-# DESKRIPSI SIKNGKAT
+# DESKRIPSI SINGKAT
 
 Program ini adalah sistem manajemen pertanian sayuran yang memungkinkan dua jenis pengguna (petani dan pelanggan) untuk mengelola dan membeli sayuran secara digital.
 
@@ -28,6 +28,8 @@ Program ini adalah sistem manajemen pertanian sayuran yang memungkinkan dua jeni
 
 Fitur yang tersedia:
 
+<img width="225" height="161" alt="image" src="https://github.com/user-attachments/assets/3bbc8ed6-dfd7-4e2d-a20c-2fb28a58c13d" />
+
 - Lihat daftar sayuran
 
 - Tambah sayuran baru
@@ -39,6 +41,8 @@ Fitur yang tersedia:
 **2. Pelanggan**
 
 Fitur yang tersedia:
+
+<img width="253" height="176" alt="image" src="https://github.com/user-attachments/assets/c16caeb6-417a-4bdc-a2bc-affb30087cbf" />
 
 -  Lihat daftar sayuran
 
@@ -160,15 +164,22 @@ Menampilkan hasil pencarian dalam tabel
 
 **3. Cek Saldo**
 
+<img width="252" height="246" alt="image" src="https://github.com/user-attachments/assets/e8c4363a-1a44-4698-aae4-7614cf2b2636" />
 
 - Menampilkan saldo e-money saat ini
 
 **4. Isi Saldo**
+
+<img width="398" height="258" alt="image" src="https://github.com/user-attachments/assets/737c6926-fb0c-40f2-bff2-afc590fbff5c" />
+
 - Input jumlah saldo yang akan diisi
 
 Saldo akan bertambah sesuai input
 
 **5. Beli Tanaman**
+
+<img width="475" height="626" alt="image" src="https://github.com/user-attachments/assets/3bebf700-b1c0-4200-8600-1635beeaf301" />
+
 - Pilih ID sayuran yang ingin dibeli
 
 - Input jumlah (kg) yang ingin dibeli
