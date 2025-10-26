@@ -14,17 +14,86 @@ Program ini adalah sistem manajemen pertanian sayuran yang memungkinkan dua jeni
 
 # FLOWCHART
 
-1. Menu Awal
+**1. Menu Awal**
    
 ![PA_kel 8-Menu Awal](https://github.com/user-attachments/assets/e0ee21b1-5582-4ebb-9e80-c71c3cde7496)
 
-2. Menu Petani
+**2. Menu Petani**
    
 ![PA_kel 8-Menu Petani](https://github.com/user-attachments/assets/1aad0e4b-364b-4a9b-988f-5e8ad6d00f8d)
 
-3. Menu Pelanggan
+**3. Menu Pelanggan**
    
 ![PA_Kel 8-Menu Pelanggan](https://github.com/user-attachments/assets/5361046a-4b21-4730-834c-36ccdd202b51)
+
+# Implementasi Program
+Dalam perancangan program ini, kami telah mengimplementasikan hal-hal yang telah kami pelajari selama praktikum, yaitu sebagai berikut:
+
+**1. Python** 
+
+<img width="924" height="687" alt="Screenshot 2025-10-23 224745" src="https://github.com/user-attachments/assets/2c1e9869-f0e4-4a7d-8b6d-0d23b1268b3e" />
+
+Bahasa pemrograman yang kami gunakan adalah Python karena memiliki sintaks yang rapi, mudah dipahami, dan sangat cocok untuk membangun aplikasi berbasis teks
+
+**2. Dictionary**
+
+<img width="301" height="126" alt="Screenshot 2025-10-23 225143" src="https://github.com/user-attachments/assets/bdbe2d52-4eec-4bca-8206-0c11fc54981b" />
+
+Program ini juga memanfaatkan struktur data dictionary sebagai tempat penyimpanan data seperti username, password, role, saldo, dan informasi tanaman, yang kemudian disimpan dalam file JSON eksternal.
+
+**3. While dan If, Elif, Else**
+
+<img width="928" height="397" alt="Screenshot 2025-10-23 225746" src="https://github.com/user-attachments/assets/30b743fd-8e38-4e54-a3ee-48d6d829a1fa" />
+
+Untuk mengatur alur program, digunakan perulangan while yang memungkinkan proses berjalan terus-menerus hingga pengguna memilih keluar. Serta if, elif, dan else sebagai struktur pengambilan Keputusan untuk mengeksekusi logika berdasarkan input pengguna.
+
+**4. Pretty Table**
+
+<img width="524" height="141" alt="Screenshot 2025-10-23 231137" src="https://github.com/user-attachments/assets/11b30bfc-f041-4439-8cb6-b74fd6f68f8e" />
+
+Pretty Table Adalah library yang digunakan untuk membuat output lebih mudah dibaca. Tampilan data seperti daftar tanaman ditampilkan secara rapi.
+
+**5. Pwinput**
+
+<img width="808" height="328" alt="Screenshot 2025-10-23 214035" src="https://github.com/user-attachments/assets/0a90581c-7b16-4c31-8333-ce097b8f6d23" />
+
+selain itu ada juga libPwinput berfungsi untuk mengubah password yang di inputkan menjadi ‘***’ untuk menyembunyikan password yang telah di inputkan dan berasal dari database
+
+**6. Function Def**
+
+<img width="529" height="598" alt="Screenshot 2025-10-23 231627" src="https://github.com/user-attachments/assets/0a00265c-c4f8-4a9a-8ead-46de33615062" />
+
+Def digunakan untuk membagi logika program ke dalam fungsi fungsi, sehingga setiap bagian program dapat dipanggil ulang dengan efisien.
+
+**7. Creat**
+
+<img width="919" height="541" alt="Screenshot 2025-10-25 234424" src="https://github.com/user-attachments/assets/2000d6fb-2a5c-4ba1-9346-11ad5f68f011" />
+
+Create adalah fitur admin untuk menambah data tanaman ke dalam database.
+
+**8. Read**
+
+<img width="935" height="332" alt="Screenshot 2025-10-25 234416" src="https://github.com/user-attachments/assets/04d9cfa6-4d27-4974-94f0-a4a655e6df30" />
+
+Read adalah fitur admin yang berfungsi untuk memanggil dan menampilkan data tanaman yang terdapat pada database.
+
+**9. Update**
+
+<img width="979" height="663" alt="Screenshot 2025-10-25 234434" src="https://github.com/user-attachments/assets/63116491-8de0-4464-93db-4c39c9600424" />
+
+Update adalah fitur admin yang berfungsi untuk memperbarui data yang telah ada sebelumnya
+
+**10. Delete**
+
+<img width="932" height="525" alt="Screenshot 2025-10-25 234443" src="https://github.com/user-attachments/assets/12185037-1df1-4695-996b-492eec21222f" />
+
+Delete merupakan fitur admin yang berfungsi untuk menghapus data tanaman yang telah ada sebelumnya
+
+**11. Try Except**
+
+<img width="310" height="117" alt="Screenshot 2025-10-24 020136" src="https://github.com/user-attachments/assets/9b63559c-dc39-4f70-acba-ae43cdeaf853" />
+
+Try except digunakan untuk menghindari program berhenti secara tiba-tiba akibat kesalahan input, seperti memasukkan karakter non-angka saat diminta angka. Dan untuk error handling yang terjadi pada program saat dijalankan.
 
 # Cara Menjalankan Program
 
