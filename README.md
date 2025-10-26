@@ -1,4 +1,4 @@
-# PA-DDP-KEL-8
+# PA-DDP-KELELOMPOK-8
 
 # PROFIL KELOMPOK 8
 
@@ -65,7 +65,7 @@ selain itu ada juga libPwinput berfungsi untuk mengubah password yang di inputka
 
 Def digunakan untuk membagi logika program ke dalam fungsi fungsi, sehingga setiap bagian program dapat dipanggil ulang dengan efisien.
 
-**7. Creat**
+**7. Create**
 
 <img width="919" height="541" alt="Screenshot 2025-10-25 234424" src="https://github.com/user-attachments/assets/2000d6fb-2a5c-4ba1-9346-11ad5f68f011" />
 
