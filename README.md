@@ -145,14 +145,22 @@ Menyimpan data akun pelanggan:
 **Menu Pelanggan**
 
 **1. Lihat Sayuran**
+
+<img width="306" height="356" alt="image" src="https://github.com/user-attachments/assets/404c5a32-624f-42d7-aeda-a52bfc7d68a3" />
+
 - Menampilkan semua sayuran yang tersedia
 
 **2. Cari Tanaman**
+
+<img width="470" height="315" alt="image" src="https://github.com/user-attachments/assets/ccfc2ff4-8b7b-40f2-b831-b7863f3a65fa" />
+
 Cari sayuran berdasarkan nama
 
 Menampilkan hasil pencarian dalam tabel
 
 **3. Cek Saldo**
+
+
 - Menampilkan saldo e-money saat ini
 
 **4. Isi Saldo**
