@@ -15,12 +15,15 @@ Program ini adalah sistem manajemen pertanian sayuran yang memungkinkan dua jeni
 # FLOWCHART
 
 1. Menu Awal
+   
 ![PA_kel 8-Menu Awal](https://github.com/user-attachments/assets/e0ee21b1-5582-4ebb-9e80-c71c3cde7496)
 
 2. Menu Petani
+   
 ![PA_kel 8-Menu Petani](https://github.com/user-attachments/assets/1aad0e4b-364b-4a9b-988f-5e8ad6d00f8d)
 
 3. Menu Pelanggan
+   
 ![PA_Kel 8-Menu Pelanggan](https://github.com/user-attachments/assets/5361046a-4b21-4730-834c-36ccdd202b51)
 
 # Cara Menjalankan Program
